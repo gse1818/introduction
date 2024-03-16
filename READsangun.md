@@ -5,7 +5,7 @@
             **_<br>자유전공학부 19학번 (경제학, 컴퓨터공학 전공)_**  
     <br> 
     * <span style="color: #2D3748; background-color: #F7DDBE">생년월일</span>  
-            <br>**_1999년 05월 12일생_**  
+            <br>**_1999년 05월 12일생(26세)_**  
     <br>
     * <span style="color: #2D3748; background-color: #F7DDBE">고향</span>  
             <br>**_경기도 구리시 26년째 거주중(현재는 자취)_**  
